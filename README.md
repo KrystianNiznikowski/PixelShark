@@ -2,7 +2,7 @@
 
 Prosta strona internetowa typu onepage(zadanie na praktykach).
 
-## Opis projektu
+## Opis Strony
 
 Strona przedstawia przykładową firmę zajmującą się tworzeniem prostych stron internetowych.
 
