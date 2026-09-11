@@ -8,9 +8,9 @@ Strona przedstawia przykładową firmę zajmującą się tworzeniem prostych str
 
 Na stronie znajdują się:
 -sekcja główna
--sekcja „O nas
--sekcja „Usługi
--sekcja „Kontakt
+-sekcja „O nas"
+-sekcja „Usługi"
+-sekcja „Kontakt"
 -menu nawigacyjne
 -stopka
 -prosta interakcja JavaScript
