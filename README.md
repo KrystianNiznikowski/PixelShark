@@ -32,7 +32,7 @@ Przycisk Dowiedz się więcej uruchamia funkcję JavaScript, która wyświetla d
 Strona jest responsywna i dostosowana do telefonu
 
 
-##Czego się nauczyłem i z czym miałem trudność
+## Czego się nauczyłem i z czym miałem trudność
 
 Podczas tworzenia projektu nauczyłem się lepszego rozmieszczania elementów na stronie oraz używania media queries w CSS. Na początku miałem trudności z CSS, szczególnie z odpowiednim ułożeniem strony, żeby wszystkie elementy były dobrze rozmieszczone i nie były porozrzucane po całej stronie. Jeśli jakiś rzeczy nie umiałem to używałem W3schools albo wpisywalem w google np: "jak zrobić żeby strona była responsywna".
 
