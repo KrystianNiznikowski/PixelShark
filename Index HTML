@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moja Firma</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+    <h1>Moja Firma</h1>
+
+    <nav>
+        <a href="#o-nas">O nas</a>
+        <a href="#uslugi">Usługi</a>
+        <a href="#kontakt">Kontakt</a>
+    </nav>
+</header>
+
+<section class="glowna">
+    <h2>Witamy w Mojej Firmie</h2>
+    <p>Proste rozwiązania dla każdego klienta.</p>
+    <button onclick="pokazTekst()">Dowiedz się więcej</button>
+    <p id="tekst"></p>
+</section>
+
+<section id="o-nas">
+    <h2>O nas</h2>
+    <p>
+        Moja Firma zajmuje się tworzeniem prostych i nowoczesnych
+        stron internetowych dla małych firm i klientów prywatnych.
+    </p>
+    <img src="assets/moja-firma.svg" alt="Logo Mojej Firmy">
+</section>
+
+<section id="uslugi">
+    <h2>Nasze usługi</h2>
+
+    <div class="uslugi">
+        <div>
+            <h3>Strony internetowe</h3>
+            <p>Tworzymy proste strony internetowe.</p>
+        </div>
+
+        <div>
+            <h3>Projekty</h3>
+            <p>Przygotowujemy przejrzyste projekty stron.</p>
+        </div>
+
+        <div>
+            <h3>Pomoc</h3>
+            <p>Pomagamy w podstawowych problemach ze stronami.</p>
+        </div>
+    </div>
+</section>
+
+<section id="kontakt">
+    <h2>Kontakt</h2>
+    <p>Email: krystian.182000@gmail.com</p>
+    <p>Telefon: 111 222 111</p>
+</section>
+
+<footer>
+    <p>Moja Firma</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
+
